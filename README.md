@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a Front-End Developer with nearly a year of<br>experience building web applications with<br>JavaScript, TypeScript, React, Redux, Next.js, and<br>Vue.js. Previously, I managed operations at a major<br>culinary production company in Ukraine, where I<br>helped cut costs and boost production. This<br>experience helped me to acquire abilities in time<br>management, fast change adaptation, and formation<br>of teams able to manage tasks of any complexity.<br>I am expanding my tech stack by diving<br>into Node.js and MongoDB to broaden my<br>capabilities further. In addition, I have upper-intermediate competency in English.
+Full-Stack Developer | React, Next.js, Node.js, Nest.js, PostgreSQL
+
+I am a passionate Full-Stack Developer with experience in building scalable and efficient web applications. I specialize in frontend technologies like React, Next.js, and Vue.js, and I have extensive experience with backend development using Node.js, Nest.js, and PostgreSQL.
 
 
 ## 🌐 Socials:
